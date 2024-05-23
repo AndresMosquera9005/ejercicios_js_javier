@@ -1,0 +1,28 @@
+temario
+1. html 
+    1.1 que es html
+    1.2 h1 - h6 
+    1.3 p
+    1.4 imagen audio video
+    1.5 
+    1.6 class
+    1.7 id
+    1.8 
+    1.9 boostrapt
+    1.10 imput
+    1.11 btn
+
+2. css
+que es css
+with
+height
+
+
+3. javaScript  
+    var 
+    let 
+    const
+    function
+
+git
+github

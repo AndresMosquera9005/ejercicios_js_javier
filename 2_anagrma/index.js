@@ -1,5 +1,8 @@
-numero_Anterior = ""
+let rspuesta = document.getElementById("respuesta_anagrama")
+let nombre_andru = "Andru"
+let nombre_felipe = "Felipe"
 
-for(i=0; i<=5; i++){
-    console.log();
+
+function ver_fal() {
+    
 }

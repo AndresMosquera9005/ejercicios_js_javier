@@ -1,0 +1,26 @@
+link ejercicios 
+1. 
+    https://retosdeprogramacion.com/ejercicios/ 
+
+pagina 
+    1. key code en javascript
+
+21-05-2024
+
+Estudiar:
+    1. poo
+    2. apply
+    3. call
+    4. bind  
+    5. DOM
+    6. como crear una api 
+    7. node.js
+
+
+new ejemplo = utiliza un nuevo molde 
+ejemplo = busca una funcion con ese nombre 
+
+
+ejercicio del piano 
+    implementa el codigo del piano esta en la carpeta de poo
+    keypress
